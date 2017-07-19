@@ -211,7 +211,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "OGC Testbed 13 &nbsp; &nbsp;University of Denver Department of Geograhy and the Environment"
         },
         {
           "_inherit": "msg-box5",

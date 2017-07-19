@@ -155,8 +155,8 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "OGC AIS<br>Project<br><span style=\"font-size: 46px; font-weight: normal; line-height: 1.1;\">Team OGC Testbed 13</span><br><span style=\"font-weight: normal;\">University of Denver</span>",
-          "text": "<br>Designed by team OGC Testbed 13 from the&nbsp;University of Denver Department of Geography and the Environment",
+          "title": "OGC AIS&nbsp;<br>Project<br><span style=\"font-size: 46px; font-weight: normal; line-height: 1.1;\">Team OGC Testbed 13</span><br>",
+          "text": "<br>Designed by team OGC Testbed 13 from the&nbsp;University of Denver Department of Geography and the Environment<br><br>By Dr. Jing Li, Martha Blanco-Castano, Xuantong Wang",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Download Application</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">View Code</a>"
         },
         {

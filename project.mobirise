@@ -156,7 +156,7 @@
             "showButtons": true
           },
           "title": "OGC AIS<br>Project<br><span style=\"font-size: 46px; font-weight: normal; line-height: 1.1;\">Team OGC Testbed 13</span><br><span style=\"font-weight: normal;\">University of Denver</span>",
-          "text": "<br>This project is initiated and completed by the team from <br>University of Denver Department of Geography and the Environment",
+          "text": "<br>Created by team OGC Testbed 13 from the&nbsp;University of Denver Department of Geography and the Environment",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Download Application</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">View Code</a>"
         },
         {
@@ -339,7 +339,7 @@
           "title3": "WFS Service",
           "subtitle3": "subtitle",
           "caption3": "Explain service here<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",

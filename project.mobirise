@@ -15,7 +15,7 @@
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
@@ -156,7 +156,7 @@
             "showButtons": true
           },
           "title": "OGC AIS&nbsp;<br>Project<br><span style=\"font-size: 46px; font-weight: normal; line-height: 1.1;\">Team OGC Testbed 13</span><br>",
-          "text": "<br>Designed by team OGC Testbed 13 from the&nbsp;University of Denver Department of Geography and the Environment<br><br>By Dr. Jing Li, Martha Blanco-Castano, Xuantong Wang",
+          "text": "<br>Designed by team OGC Testbed 13 from the&nbsp;University of Denver Department of Geography and the Environment<br><br>By &nbsp;Martha Blanco-Castano, Xuantong Wang,&nbsp;Dr. Jing Li",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Download Application</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">View Code</a>"
         },
         {
@@ -173,9 +173,9 @@
           "_anchor": "header4-4",
           "_params": {
             "parallax": true,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wmsedited-2000x1344.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -183,7 +183,7 @@
               "height": 720,
               "url": "https://www.youtube.com/embed/P5_GlAOCHyE?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
@@ -226,12 +226,12 @@
           "_name": "msg-box6",
           "_anchor": "msg-box6-1",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "52",
             "paddingTop": "3",
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/41d-39-0068-orig-2000x1996.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/main1-2000x1344.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -298,7 +298,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-07-19-at-8-600x443.png",
+              "src": "@PROJECT_PATH@/assets/images/main1-600x403.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -314,7 +314,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-07-19-at-8-600x459.png",
+              "src": "@PROJECT_PATH@/assets/images/wmsedited-600x403.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -324,31 +324,39 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "WCS Service",
+          "title2": "WMS Service",
           "subtitle2": "subtitle",
           "caption2": "Explain service here<br><br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/wcsedited-600x403.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title3": "WFS Service",
+          "title3": "WCS Service",
           "subtitle3": "subtitle",
           "caption3": "Explain service here<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/wcsedited-600x403.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title4": "WMS Service",
+          "title4": "WFS Service",
           "subtitle4": "subtitle",
           "caption4": "Explain service here<br>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",

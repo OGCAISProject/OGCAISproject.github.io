@@ -495,6 +495,21 @@ h6,
 #msg-box6-1 .lead p {
   color: #fff;
 }
+#msg-box2-d .mbr-section-title {
+  color: #fff;
+  text-align: left;
+}
+#msg-box2-d .mbr-section-subtitle {
+  color: #ffffff;
+}
+#msg-box2-b .mbr-section-title {
+  color: #fff;
+  text-align: left;
+  font-size: 48px;
+}
+#msg-box2-b .mbr-section-subtitle {
+  color: #a0a0a0;
+}
 #form1-5 .form-control-label {
   color: #232323;
 }

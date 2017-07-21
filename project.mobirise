@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8,
+    "uniqCompNum": 14,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -140,7 +140,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/nasa-2000x1600.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1330.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -269,6 +269,45 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff",
+              "text-align": "left"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-d",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1330.jpg",
+            "bgColor": "#3d8eb9",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": false,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
+          "title": "OGC Services",
+          "text": ""
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -342,11 +381,11 @@
           },
           "title3": "WCS Service",
           "subtitle3": "subtitle",
-          "caption3": "Explain service here<br>",
+          "caption3": "Explain service here<br><br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/wcsedited-600x403.jpg",
+              "src": "@PROJECT_PATH@/assets/images/wfsedited-600x403.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -358,7 +397,7 @@
           },
           "title4": "WFS Service",
           "subtitle4": "subtitle",
-          "caption4": "Explain service here<br>",
+          "caption4": "Explain service here<br><br>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "image": {
@@ -386,19 +425,58 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
-          "_inherit": "features3",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff",
+              "text-align": "left",
+              "font-size": "48px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "features6",
-          "_anchor": "features6-3",
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-b",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1330.jpg",
+            "bgColor": "#2969b0",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": false,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
+          "title": "Analysis Tools",
+          "text": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-8",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
+            "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -410,76 +488,80 @@
             "columns": 4,
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": false,
+            "showSubtitles": true,
             "ShowTexts": true,
             "showButtons": true
           },
           "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "growing-chart",
-              "family": "MobiriseIcons",
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/classification-600x450.png",
+              "class": "card-img-top",
+              "width": 600,
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title1": "Time Series",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Explain function here",
+          "title1": "Classification",
+          "subtitle1": "Subtitle",
+          "caption1": "Explain",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "features",
-              "family": "MobiriseIcons",
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/density-600x450.jpg",
+              "class": "card-img-top",
+              "width": 600,
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title2": "Classifications",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Explain function here",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title2": "Density Map",
+          "subtitle2": "Subtitle",
+          "caption2": "Explain",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
-            "iconFont": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/tracking-600x450.png",
+              "class": "card-img-top",
+              "width": 600,
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "pencil",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title3": "Profilers",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Explain function here",
+          "title3": "Tracking",
+          "subtitle3": "Subtitle",
+          "caption3": "Explain",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
-            "iconFont": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/profiler-600x450.png",
+              "class": "card-img-top",
+              "width": 600,
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title4": "Density Map",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Explain function here",
+          "title4": "Profiler",
+          "subtitle4": "Subtitle",
+          "caption4": "Explain",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
             }
           },
           "title5": "Trendy Website Blocks",
@@ -487,13 +569,11 @@
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
             }
           },
           "title6": "Host Anywhere",

@@ -79,7 +79,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#f3c649!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -156,7 +156,7 @@
             "showButtons": true
           },
           "title": "OGC AIS&nbsp;<br>Project<br><span style=\"font-size: 46px; font-weight: normal; line-height: 1.1;\">Team OGC Testbed 13</span><br>",
-          "text": "<br>Designed by team OGC Testbed 13 from the&nbsp;University of Denver Department of Geography and the Environment<br><br>By &nbsp;Martha Blanco-Castano, Xuantong Wang,&nbsp;Dr. Jing Li",
+          "text": "<br>Designed by team OGC Testbed 13 from the&nbsp;University of Denver Department of Geography and the Environment<br><br>By &nbsp;Marta Blanco-Castano, Xuantong Wang,&nbsp;Dr. Jing Li",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Download Application</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">View Code</a>"
         },
         {
@@ -643,6 +643,12 @@
             "Theme"
           ],
           "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "19px",
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "social-buttons1-e",
           "_params": {
             "paddingTop": "2",
@@ -661,13 +667,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "SHARE THIS PAGE",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "19px",
-              "color": "#ffffff"
-            }
-          }
+          "text": "SHARE THIS PAGE"
         },
         {
           "_tags": [

@@ -156,7 +156,7 @@
             "showButtons": true
           },
           "title": "Helsinki NASA Europa Challenge 2017<br><span style=\"font-size: 46px; font-weight: normal; line-height: 1.1;\">Team OGC Testbed 13</span><br>",
-          "text": "<br>Designed by team OGC Testbed 13 from the&nbsp;University of Denver Department of Geography and the Environment<br><br>By &nbsp;Marta Blanco-Castano, Xuantong Wang, &nbsp;Mentor:&nbsp;Dr. Jing Li",
+          "text": "<br>Designed by team OGC Testbed 13 from the&nbsp;University of Denver Department of Geography and the Environment<br><br>Xuantong Wang - Marta Blanco Castano, &nbsp;Mentor:&nbsp;Dr. Jing Li",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">JNLP/Application</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">View Tutorial</a>"
         },
         {
@@ -287,7 +287,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/main1-600x403.png",
+              "src": "@PROJECT_PATH@/assets/images/main2-600x403.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,

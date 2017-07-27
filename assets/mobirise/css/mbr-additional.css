@@ -490,10 +490,11 @@ h6,
 }
 #header4-4 .mbr-section-title {
   text-align: right;
+  font-size: 46px;
 }
-#msg-box6-1 .mbr-section-title,
-#msg-box6-1 .lead p {
-  color: #fff;
+#header4-4 .mbr-section-lead {
+  font-size: 16px;
+  text-align: left;
 }
 #msg-box2-d .mbr-section-title {
   color: #fff;
@@ -502,13 +503,9 @@ h6,
 #msg-box2-d .mbr-section-subtitle {
   color: #ffffff;
 }
-#msg-box2-b .mbr-section-title {
+#msg-box6-1 .mbr-section-title,
+#msg-box6-1 .lead p {
   color: #fff;
-  text-align: left;
-  font-size: 48px;
-}
-#msg-box2-b .mbr-section-subtitle {
-  color: #a0a0a0;
 }
 #form1-5 .form-control-label {
   color: #232323;

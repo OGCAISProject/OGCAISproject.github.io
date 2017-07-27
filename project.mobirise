@@ -51,10 +51,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.65rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.704rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -96,7 +96,7 @@
           "_anchor": "menu-0",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": "0.65",
+            "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -110,7 +110,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logonew-415x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/new3-513x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "",

@@ -126,7 +126,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-4\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-d\" aria-expanded=\"false\">FEATURES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-5\" aria-expanded=\"false\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"OGCAISproject.github.io/dist.zip\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-4\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-d\" aria-expanded=\"false\">FEATURES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-5\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"OGCAISproject.github.io/dist.zip\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
@@ -221,7 +221,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "OGC Testbed 13 &nbsp; &nbsp;University of Denver Department of Geograhy and the Environment<br>Template from Mobirise"
+          "text": "OGC Testbed 13 &nbsp; &nbsp;University of Denver Department of Geograhy and the Environment<br><br>"
         },
         {
           "_styles": {
@@ -303,7 +303,7 @@
             }
           },
           "title1": "One Application",
-          "subtitle1": "",
+          "subtitle1": "Mass Migration Client based on the World Wind Environment",
           "caption1": "",
           "button1": "<a data-app-btn=\"true\" href=\"https://ogcaisproject.github.io/OneApp/application.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media2": {
@@ -319,7 +319,7 @@
             }
           },
           "title2": "Web Service",
-          "subtitle2": "",
+          "subtitle2": "Display web service options for WFS, WCS, or WMS",
           "caption2": "",
           "button2": "<a data-app-btn=\"true\" href=\"https://ogcaisproject.github.io/WebService/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media3": {
@@ -335,7 +335,7 @@
             }
           },
           "title3": "Visualization",
-          "subtitle3": "",
+          "subtitle3": "The interface component enables users visualize outputs efficiently",
           "caption3": "",
           "button3": "<a data-app-btn=\"true\" href=\"https://ogcaisproject.github.io/Visualization/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media4": {
@@ -351,7 +351,7 @@
             }
           },
           "title4": "Analysis",
-          "subtitle4": "",
+          "subtitle4": "Further analysis can be performed on the loaded layers",
           "caption4": "",
           "button4": "<a data-app-btn=\"true\" href=\"https://ogcaisproject.github.io/Analysis/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media5": {

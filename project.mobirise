@@ -25,7 +25,9 @@
     "uniqCompNum": 18,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/dulogo-128x128.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {

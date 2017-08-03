@@ -140,6 +140,11 @@
             },
             ".mbr-section-title": {
               "font-size": "46px"
+            },
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "16px"
             }
           },
           "_anchor": "header1-1",
@@ -175,10 +180,10 @@
           "_styles": {
             ".mbr-section-title": {
               "text-align": "right",
-              "font-size": "46px"
+              "font-size": "60px"
             },
             ".mbr-section-lead": {
-              "font-size": "16px",
+              "font-size": "18px",
               "text-align": "left"
             }
           },
@@ -186,7 +191,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": false,
+            "showArrow": true,
             "bgImage": "@PROJECT_PATH@/assets/images/wmsedited-2000x1344.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
@@ -204,7 +209,7 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "VisAIS: An Integrated Cloud-Based 4D Marine Traffic Data Visualization Tool\n",
+          "title": "VisAIS: An Integrated <br>Cloud-Based 4D Marine Traffic Data Visualization Tool\n",
           "text": "‘The developed application exhibits three main features. First, it supports marine and immigration data provided as geospatial web services (e.g., WFS), to facilitate data interoperability. When Integrated with World Wind, it can further provide multiple visualization methods to represent marine traffic information (e.g., ship tracking, density mapping) as well as demographic aspects around urban ports (e.g., Helsinki). It thus focuses on analyzing shipping-related information and marine transportation, by coupling environmental and social economic datasets. The tool hopes to assist with decision-making, particularly in cities experiencing changes in sustainability, immigration, and mass-movement of goods, people, and resources.\n",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> "
         },
@@ -229,7 +234,8 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#fff",
-              "text-align": "left"
+              "text-align": "left",
+              "font-size": "60px"
             },
             ".mbr-section-subtitle": {
               "color": "#ffffff"
@@ -241,8 +247,8 @@
           "_name": "msg-box2",
           "_anchor": "msg-box2-d",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1330.jpg",

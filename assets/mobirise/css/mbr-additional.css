@@ -5,6 +5,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -490,27 +491,28 @@ h6,
   text-align: left;
 }
 #header1-1 .mbr-section-title {
-  font-size: 46px;
+  font-size: 36px;
 }
 #header1-1 .btn {
   font-family: 'Montserrat', sans-serif;
   font-size: 16px;
 }
-#header4-4 .mbr-section-title {
-  text-align: right;
-  font-size: 60px;
-}
-#header4-4 .mbr-section-lead {
+#header1-1 .mbr-section-lead {
   font-size: 18px;
-  text-align: left;
 }
 #msg-box2-d .mbr-section-title {
   color: #fff;
   text-align: left;
-  font-size: 60px;
+  font-size: 48px;
 }
 #msg-box2-d .mbr-section-subtitle {
   color: #ffffff;
+}
+#features3-2 H5 {
+  font-family: 'Lora', serif;
+}
+#features3-2 P {
+  text-align: left;
 }
 #msg-box6-1 .mbr-section-title,
 #msg-box6-1 .lead p {

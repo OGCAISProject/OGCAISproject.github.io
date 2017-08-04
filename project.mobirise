@@ -139,12 +139,15 @@
               "text-align": "left"
             },
             ".mbr-section-title": {
-              "font-size": "46px"
+              "font-size": "36px"
             },
             ".btn": {
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "font-size": "16px"
+            },
+            ".mbr-section-lead": {
+              "font-size": "18px"
             }
           },
           "_anchor": "header1-1",
@@ -168,50 +171,8 @@
             "showButtons": true
           },
           "title": "VisAIS: An Integrated Cloud-Based 4D Marine Traffic Data Visualization Tool",
-          "text": "<br>Designed by team OGC Testbed 13 from the&nbsp;University of Denver Department of Geography and the Environment<br><br>Xuantong Wang - Marta Blanco Castano, &nbsp;Mentor:&nbsp;Dr. Jing Li",
+          "text": "<br>Designed by team OGC Testbed 13 from the&nbsp;University of Denver Department of Geography and the Environment<br>Xuantong Wang - Marta Blanco Castano, &nbsp;Mentor:&nbsp;Dr. Jing Li<br><br>The developed application exhibits three main features. First, it supports marine and immigration data provided as geospatial web services (e.g., WFS), to facilitate data interoperability. When Integrated with World Wind, it can further provide multiple visualization methods to represent marine traffic information (e.g., ship tracking, density mapping) as well as demographic aspects around urban ports (e.g., Helsinki). It thus focuses on analyzing shipping-related information and marine transportation, by coupling environmental and social economic datasets. The tool hopes to assist with decision-making, particularly in cities experiencing changes in sustainability, immigration, and mass-movement of goods, people, and resources.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"OGCAISproject.github.io/dist.zip\" data-toolbar=\"-mbrBtnMove\">Download Application</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"OGCAISproject.github.io/OGC Testbed 13 - Client Use Summary.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">View Tutorial</a>"
-        },
-        {
-          "_inherit": "header1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header4",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "right",
-              "font-size": "60px"
-            },
-            ".mbr-section-lead": {
-              "font-size": "18px",
-              "text-align": "left"
-            }
-          },
-          "_anchor": "header4-4",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wmsedited-2000x1344.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "width": 1280,
-              "height": 720,
-              "url": "https://www.youtube.com/embed/P5_GlAOCHyE?rel=0&amp;showinfo=0&autoplay=0&loop=0"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "right",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
-          },
-          "title": "VisAIS: An Integrated <br>Cloud-Based 4D Marine Traffic Data Visualization Tool\n",
-          "text": "‘The developed application exhibits three main features. First, it supports marine and immigration data provided as geospatial web services (e.g., WFS), to facilitate data interoperability. When Integrated with World Wind, it can further provide multiple visualization methods to represent marine traffic information (e.g., ship tracking, density mapping) as well as demographic aspects around urban ports (e.g., Helsinki). It thus focuses on analyzing shipping-related information and marine transportation, by coupling environmental and social economic datasets. The tool hopes to assist with decision-making, particularly in cities experiencing changes in sustainability, immigration, and mass-movement of goods, people, and resources.\n",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> "
         },
         {
           "_name": "footer1",
@@ -235,7 +196,7 @@
             ".mbr-section-title": {
               "color": "#fff",
               "text-align": "left",
-              "font-size": "60px"
+              "font-size": "48px"
             },
             ".mbr-section-subtitle": {
               "color": "#ffffff"
@@ -247,8 +208,8 @@
           "_name": "msg-box2",
           "_anchor": "msg-box2-d",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1330.jpg",
@@ -291,7 +252,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": 4,
+            "columns": "3",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
@@ -299,22 +260,6 @@
             "showButtons": true
           },
           "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/main2-600x403.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "One Application",
-          "subtitle1": "Mass Migration Client based on the World Wind Environment",
-          "caption1": "",
-          "button1": "<a data-app-btn=\"true\" href=\"https://ogcaisproject.github.io/OneApp/application.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
-          "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/wmsedited-600x403.jpg",
               "class": "card-img-top",
@@ -326,11 +271,11 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Web Service",
-          "subtitle2": "Display web service options for WFS, WCS, or WMS",
-          "caption2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"https://ogcaisproject.github.io/WebService/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
-          "media3": {
+          "title1": "Web Service<br>",
+          "subtitle1": "Display web service options for WFS, WCS, or WMS<br>",
+          "caption1": "By selecting the “Service” tab at the top left of the interface, users can display web service loading options for selection (WFS, WCS, or WMS) . Via the import web service features box, users may specify the service URL and additional customization functions for handling and displaying data.<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://ogcaisproject.github.io/WebService/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/wcsedited-600x403.jpg",
               "class": "card-img-top",
@@ -342,10 +287,26 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "Visualization",
-          "subtitle3": "The interface component enables users visualize outputs efficiently",
-          "caption3": "",
-          "button3": "<a data-app-btn=\"true\" href=\"https://ogcaisproject.github.io/Visualization/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "title2": "Visualization",
+          "subtitle2": "Visualize outputs efficiently<br>",
+          "caption2": "The desktop client enables visual and analytical tasks, as related to mass migration data support needs. It is capable of handling complex analyses and rendering of large datasets (e.g., big data). The client includes three major modules: data management, visualization module, and analytical module.&nbsp;",
+          "button2": "<a data-app-btn=\"true\" href=\"https://ogcaisproject.github.io/Visualization/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/wfsedited-600x403.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Analysis",
+          "subtitle3": "Further analysis performed on the loaded layers<br>",
+          "caption3": " The interface component enables user manipulation of datasets, classification and analysis functions, and information and visualization outputs. Further analysis can be performed on the loaded layer/s (classification, density mapping, time-based tracking, and data profiling).",
+          "button3": "<a data-app-btn=\"true\" href=\"https://ogcaisproject.github.io/Analysis/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/wfsedited-600x403.jpg",
@@ -385,7 +346,16 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            "H5": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_inherit": "msg-box5",
@@ -420,7 +390,7 @@
             "inverse": true,
             "showTitle": true,
             "showText": true,
-            "showButtons": false
+            "showButtons": true
           },
           "media": {
             "image": {
@@ -444,9 +414,9 @@
               "size": 250
             }
           },
-          "title": "Introduction Video<br>of Our Project",
-          "text": "This 3 minutes video will demonstrate the key functions and tools of our application",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "title": "Introduction Video<br>",
+          "text": "<p>This 3 minutes video will demonstrate the key functions and tools of our application including:<br>1.&nbsp;Main functions for WMS, WFS, WCS<br>2. General Interface Functions (e.g., layer control, time-based&nbsp;animation, loading web service layers)<br>3.&nbsp;Analysis Functions (classification, density mapping, feature tracking, and vertical profiling)<br></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://ogcaisproject.github.io/OneApp/application.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">View More Details</a>"
         },
         {
           "_tags": [

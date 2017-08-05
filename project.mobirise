@@ -170,7 +170,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "VisAIS: An Integrated Cloud-Based 4D Marine Traffic Data Visualization Tool",
+          "title": "VisAIS: An Integrated 4D Marine Traffic Data Visualization Tool",
           "text": "<br>Designed by team OGC Testbed 13 from the&nbsp;University of Denver Department of Geography and the Environment<br>Xuantong Wang - Marta Blanco Castano, &nbsp;Mentor:&nbsp;Dr. Jing Li<br><br>The developed application exhibits three main features. First, it supports marine and immigration data provided as geospatial web services (e.g., WFS), to facilitate data interoperability. When Integrated with World Wind, it can further provide multiple visualization methods to represent marine traffic information (e.g., ship tracking, density mapping) as well as demographic aspects around urban ports (e.g., Helsinki). It thus focuses on analyzing shipping-related information and marine transportation, by coupling environmental and social economic datasets. The tool hopes to assist with decision-making, particularly in cities experiencing changes in sustainability, immigration, and mass-movement of goods, people, and resources.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"OGCAISproject.github.io/dist.zip\" data-toolbar=\"-mbrBtnMove\">Download Application</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"OGCAISproject.github.io/OGC Testbed 13 - Client Use Summary.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">View Tutorial</a>"
         },
@@ -236,6 +236,15 @@
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            "H5": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "features3-2",
           "_params": {
             "paddingTop": 2,
@@ -273,7 +282,7 @@
           },
           "title1": "Web Service<br>",
           "subtitle1": "Display web service options for WFS, WCS, or WMS<br>",
-          "caption1": "By selecting the “Service” tab at the top left of the interface, users can display web service loading options for selection (WFS, WCS, or WMS) . Via the import web service features box, users may specify the service URL and additional customization functions for handling and displaying data.<br>",
+          "caption1": "In this client, users can display web service loading options for selection (WFS, WCS, or WMS) . Via the import web service features box, users may specify the service URL and additional customization functions for handling and displaying data.<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://ogcaisproject.github.io/WebService/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media2": {
             "image": {
@@ -346,16 +355,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "H5": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_inherit": "msg-box5",

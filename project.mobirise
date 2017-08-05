@@ -415,7 +415,7 @@
             }
           },
           "title": "Introduction Video<br>",
-          "text": "<p>This 3 minutes video will demonstrate the key functions and tools of our application including:<br>1.&nbsp;Main functions for WMS, WFS, WCS<br>2. General Interface Functions (e.g., layer control, time-based&nbsp;animation, loading web service layers)<br>3.&nbsp;Analysis Functions (classification, density mapping, feature tracking, and vertical profiling)<br></p>",
+          "text": "<p>This 3 minutes video will demonstrate the key functions and tools of our application including:<br>1.&nbsp;Main functions for WMS, WFS, and WCS<br>2. General Interface Functions (e.g., layer control, time-based&nbsp;animation, loading web service layers)<br>3.&nbsp;Analysis Functions (classification, density mapping, feature tracking, and vertical profiling)<br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://ogcaisproject.github.io/OneApp/application.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">View More Details</a>"
         },
         {

@@ -282,7 +282,7 @@
           },
           "title1": "Web Service<br>",
           "subtitle1": "Display web service options for WFS, WCS, or WMS<br>",
-          "caption1": "In this client, users can display web service loading options for selection (WFS, WCS, or WMS) . Via the import web service features box, users may specify the service URL and additional customization functions for handling and displaying data.<br>",
+          "caption1": "In this client, users can display web service loading options for selection (WFS, WCS, or WMS) . Via the import web service features box, users may specify the service URL and additional customization functions for handling and displaying data.<br><br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://ogcaisproject.github.io/WebService/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media2": {
             "image": {

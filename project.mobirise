@@ -381,7 +381,7 @@
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": "https://www.youtube.com/embed/pflTlUcWhLI?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/embed/xC4JZ6MNNDs?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
             "overlay": true,
@@ -402,7 +402,7 @@
               "linkInNewWindow": false
             },
             "video": {
-              "src": "https://www.youtube.com/watch?v=pflTlUcWhLI",
+              "src": "https://www.youtube.com/watch?v=xC4JZ6MNNDs&feature=youtu.be",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false,

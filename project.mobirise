@@ -542,7 +542,7 @@
           },
           "text1": "<strong>Address</strong><br>Department of Geography <br>&amp; the Environment<br>University of Denver<br>Boettcher West<br>2050 E. Iliff Ave.<br>Denver, CO 80208-0710<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: ogcaisproject@gmail.com<br>\nPhone: 303-871-2513<br>\nFax: 303-871-2201",
-          "text3": "<p><strong>Links</strong><br><a href=\"OGCAISproject.github.io/dist.zip\">Download Application</a><br><a href=\"OGCAISproject.github.io/OGC Testbed 13 - Client Use Summary.pdf\">Download Tutorial</a><br><a href=\"https://www.youtube.com/channel/UCmbuAxoihaAKtlPSWJKLWGQ\" target=\"_blank\">View our Youtube&nbsp;Channel</a></p>"
+          "text3": "<p><strong>Links</strong><br><a href=\"OGCAISproject.github.io/dist.zip\">Download Application</a><br>Download Tutorial<br><a href=\"https://www.youtube.com/channel/UCmbuAxoihaAKtlPSWJKLWGQ\" target=\"_blank\">View our Youtube&nbsp;Channel</a></p>"
         }
       ]
     }
